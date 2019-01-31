@@ -4,7 +4,7 @@ Robot factory made in PyOpenGL.
 
 ## How to use
 
-After launching the script, open the menu with the right mouse button. There will be many options available, such as starting the application, changing the view of the scene, setting the FPS number, switching on the fog. 
+Run the script first, then open the menu with the right mouse button. There will be many options available, such as starting the application, changing the view of the scene, setting the FPS number, switching on the fog. 
 
 **After switching on the light settings, you can change its position by pressing the 1-6 keys**
 
