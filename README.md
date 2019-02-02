@@ -19,7 +19,7 @@ Run the script first, then open the menu with the right mouse button. There will
 
 * [PyOpenGL](http://pyopengl.sourceforge.net) - Cross platform Python binding to OpenGL and related APIs
 * [Pillow](https://pillow.readthedocs.io/en/stable/) - Imaging Library
-* [Numpy](http://www.numpy.org) - Library to computation on arrays
+* [Numpy](http://www.numpy.org) - Package for scientific computing
 
 ## Author
 
