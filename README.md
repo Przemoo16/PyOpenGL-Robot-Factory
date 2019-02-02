@@ -17,8 +17,8 @@ Run the script first, then open the menu with the right mouse button. There will
 
 ## Requirements
 
-* [PyOpenGL](http://pyopengl.sourceforge.net) - cross platform Python binding to OpenGL and related APIs
-* [Pillow](https://pillow.readthedocs.io/en/stable/) - Python Imaging Library
+* [PyOpenGL](http://pyopengl.sourceforge.net) - Cross platform Python binding to OpenGL and related APIs
+* [Pillow](https://pillow.readthedocs.io/en/stable/) - Imaging Library
 * [Numpy](http://www.numpy.org) - Library to computation on arrays
 
 ## Author
