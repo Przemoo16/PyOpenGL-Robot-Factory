@@ -10,10 +10,10 @@ Run the script first, then open the menu with the right mouse button. There will
 
 ### Photos
 
-![Photo 1](/Pictures/1.png)
-![Photo 2](/Pictures/2.png)
-![Photo 3](/Pictures/3.png)
-![Photo 4](/Pictures/4.png)
+![Photo 1](/Images/1.png)
+![Photo 2](/Images/2.png)
+![Photo 3](/Images/3.png)
+![Photo 4](/Images/4.png)
 
 ## Requirements
 
