@@ -8,12 +8,12 @@ Run the script first, then open the menu with the right mouse button. There will
 
 **After switching on the light settings, you can change its position by pressing the 1-6 keys**
 
-### Photos
+### Images
 
-![Photo 1](/Images/1.png)
-![Photo 2](/Images/2.png)
-![Photo 3](/Images/3.png)
-![Photo 4](/Images/4.png)
+![Image 1](/Images/1.png)
+![Image 2](/Images/2.png)
+![Image 3](/Images/3.png)
+![Image 4](/Images/4.png)
 
 ## Requirements
 
